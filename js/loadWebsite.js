@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbxh-k43znCxQRL1c_kDtAj3pYIgomRu93HQ4WRT31ksLolzP3hgDkciuPLWr1urt7JEkg/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbzx3tBhEji_VLf2dIey63X-_8_l8xBOyMtNol2witUzl8JY37DKef1Q6sau_M9ma8fk3g/exec";
 
 async function loadWebsite() {
 
